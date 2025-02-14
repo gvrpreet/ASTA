@@ -1,0 +1,10 @@
+numpy
+pandas
+yfinance
+ta-lib
+torch
+tqdm
+scikit-learn
+plotly
+jupyter
+notebook
