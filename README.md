@@ -16,7 +16,7 @@ The ASTA project is a comprehensive trading simulation framework that leverages 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ASTA.git
+    git clone https://github.com/gvrpreet/ASTA.git
     cd ASTA
     ```
 
